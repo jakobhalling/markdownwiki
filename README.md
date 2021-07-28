@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+# Landingpage
 
-You can use the [editor on GitHub](https://github.com/jakobhalling/markdownwiki/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Testing markdown rendering.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- List item 1
+- List item 2
+- List item 3
 
-### Markdown
+1. How easy
+2. Would it
+3. be to
+4. change styles to this?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+Codeblock
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+`inline` code block
 
-### Jekyll Themes
+## Subtitle
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jakobhalling/markdownwiki/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Sub-subtitle
 
-### Support or Contact
+Tables:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| Column 1                                   | Column 2 |
+| ------------------------------------------ | -------- |
+| sda                                        | asd      |
+| how easy is it to change the size of this? | sada     |
