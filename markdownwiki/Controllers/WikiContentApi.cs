@@ -21,7 +21,6 @@ namespace markdownwiki.Controllers
                 using (var streamreader = new StreamReader(path + ".md"))
                 {
                     content = streamreader.ReadToEnd();
-
                 }
             }
             catch (FileNotFoundException ex)
